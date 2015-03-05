@@ -2,3 +2,8 @@
 1425508220 source:c:\users\mturner\desktop\basic file io\main.c
 	<stdio.h>
 
+1425524717 source:c:\users\mitchell\documents\github\basic-file-io\main.c
+	<stdio.h>
+	<errno.h>
+	<string.h>
+
